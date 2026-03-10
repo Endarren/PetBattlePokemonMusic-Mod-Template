@@ -16,7 +16,6 @@ Step 2: Modifying the TOC file
 This next step is to change some parts of the *.toc file
 
 Once you open the TOC file, it should look like this:
-
 ## Author: Endar_ren
 ## Interface: 50001
 ## Title: PBPMTemplate
